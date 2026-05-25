@@ -23,7 +23,8 @@ Data Science Student | AI & Machine Learning Enthusiast | Future Robotics Engine
 ## 🎓 Education | التعليم
 
 ### العربية
-طالب في برنامج تقنية المعلومات تخصص علوم البيانات وهندسة تعلم الآلة  
+طالب في برنامج تقنية المعلومات 
+تخصص علوم البيانات وهندسة تعلم الآلة  
 في كلية العلوم الجمركية والطبية والتكنولوجيا.
 
 ### English
@@ -37,10 +38,8 @@ at College of Customs, Medical and Technology Sciences.
 | Platform | Link |
 |---|---|
 | 📱 WhatsApp | https://wa.me/qr/T3JJXWXXMEFCA1 |
-| 📘 Facebook | https://www.facebook.com/share/18CjaWsJRT/ |
 | 💼 LinkedIn | https://www.linkedin.com/in/mohmaed-targ-4a1b872a2 |
 | 💻 GitHub | https://github.com/Mohamed101t |
-| ✈️ Telegram | https://t.me/mohamed_tarq101 |
 | 📧 Gmail | tragm@gmail.com |
 | 📩 Outlook | MoHmAeDD101@outlook.com |
 
