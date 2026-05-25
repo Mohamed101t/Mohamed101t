@@ -37,7 +37,8 @@ at College of Customs, Medical and Technology Sciences.
 
 | Platform | Link |
 |---|---|
-| 📱 WhatsApp | https://wa.me/qr/T3JJXWXXMEFCA1 |
+| 📱 WhatsApp | <img width="585" height="1040" alt="WhatsApp Image 2026-05-25 at 11 30 13 AM" src="https://github.com/user-attachments/assets/d7b570db-3f84-4c16-aea0-8ed25cb9b704" />
+ |
 | 💼 LinkedIn | https://www.linkedin.com/in/mohmaed-targ-4a1b872a2 |
 | 💻 GitHub | https://github.com/Mohamed101t |
 | 📧 Gmail | tragm@gmail.com |
