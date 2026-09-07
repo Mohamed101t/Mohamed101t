@@ -136,7 +136,7 @@ Covered:
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://t.me/mohamed_tarq101">
+<a href="https://t.me/MT101e">
   <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" />
 </a>
 
